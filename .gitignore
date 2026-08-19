@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pkl
+models/*.pkl
+outputs/*.png
+outputs/*.csv
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
